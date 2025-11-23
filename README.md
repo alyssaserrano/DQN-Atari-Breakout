@@ -48,5 +48,6 @@ python main.py --test_dqn --record_video
 ## 🧾 Notes
 - Make sure you have the required dependencies installed before running (`pip install -r requirements.txt` if applicable).
 - Gameplay recordings will be saved in the designated output directory.
+- Also check out my Project 3 Report to see the real process of my results!
 
 ---
